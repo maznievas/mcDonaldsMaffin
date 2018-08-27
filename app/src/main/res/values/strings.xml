@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">McDonaldsMaffin</string>
+    <string name="enter_manually">Enter manually</string>
+    <string name="take_photo">Take photo</string>
+</resources>
